@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0020bd207e98ba09",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ce427a1270e099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7827ebeca2af2b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trust roles/4 Paladin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff1cf5995344a8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b244789f8d03035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d063a2deb3ab136",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a98dc5b0349904a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "997f4eb8af0f9fe7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "958594b118733674",
+    "type": "split",
+    "children": [
+      {
+        "id": "910ecde2b3d0a001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5adcda47cf5057",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "trust roles/4 Paladin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d4faf1551774365",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "trust roles/4 Paladin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af060abb083d80ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72bba100c2b8b7fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "trust roles/4 Paladin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7827ebeca2af2b30",
+  "lastOpenFiles": [
+    "trust roles/3 Officer.md",
+    "trust roles/2 Knight.md",
+    "trust roles/1 Shield bearer.md",
+    "main roles/Treasurer.md",
+    "main roles/Guild Master.md",
+    "main roles/Treasurer Deputy.md",
+    "main roles/Recruiter main deputy.md",
+    "main roles/Recruiter main.md",
+    "main roles/Guild Master Deputy.md",
+    "trust roles/4 Paladin.md"
+  ]
+}
