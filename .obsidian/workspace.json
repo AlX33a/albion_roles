@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trust roles/4 Paladin.md",
+                "file": "local_roles/Recruiter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trust roles/4 Paladin.md",
+                "file": "local_roles/Recruiter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trust roles/4 Paladin.md",
+                "file": "local_roles/Recruiter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trust roles/4 Paladin.md"
+                "file": "local_roles/Recruiter.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7827ebeca2af2b30",
+  "active": "2d063a2deb3ab136",
   "lastOpenFiles": [
+    "README.md",
+    "local_roles/Guild friend.md",
+    "local_roles/Recruiter.md",
+    "trust roles/4 Paladin.md",
     "trust roles/3 Officer.md",
     "trust roles/2 Knight.md",
     "trust roles/1 Shield bearer.md",
     "main roles/Treasurer.md",
     "main roles/Guild Master.md",
-    "main roles/Treasurer Deputy.md",
-    "main roles/Recruiter main deputy.md",
-    "main roles/Recruiter main.md",
-    "main roles/Guild Master Deputy.md",
-    "trust roles/4 Paladin.md"
+    "main roles/Treasurer Deputy.md"
   ]
 }
