@@ -1,5 +1,7 @@
 ### **Hello there!** This repository was made for guilds in game - albion online. Here i have created a guild role structure to use in the guild discord channels for comfort playing. ###
 
+RU guys check - ПРОЧИТАЙ.md)
+
 For correct view, download this and open project with obsidian: https://obsidian.md/
 
 ### Description: ###
