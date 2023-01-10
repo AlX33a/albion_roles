@@ -12,13 +12,14 @@ The a_map folder contains roles with the #map tag, this folder is needed to use 
 
 ### *  roles ###
 
-fame_achievements
+*  fame_achievements
+
 The fame_achievements folder contains the gradation of roles according to the general fame in different activities, which allows you to identify the level of knowledge and skills in the game.
 
-### *  knight_roles \ officer_roles \ paladin_roles ###
+*  knight_roles \ officer_roles \ paladin_roles 
 
 The folders knight_roles, officer_roles, paladin_roles contain the roles available to players with the appropriate trust_lvl.
 
-### *  trust_lvl ###
+ *  trust_lvl 
 
 Folder trust_lvl , contains roles showing the level of trust the guild has for the player.
