@@ -1,6 +1,6 @@
 ### **Hello there!** This repository was made for guilds in game - albion online. Here i have created a guild role structure to use in the guild discord channels for comfort playing. ###
 
-RU README - https://github.com/AlX33a/albion_roles/blob/main/%D0%9F%D0%A0%D0%9E%D0%A7%D0%98%D0%A2%D0%90%D0%99.md
+RU README - ![ПРОЧИТАЙ.md](https://github.com/AlX33a/albion_roles/blob/main/%D0%9F%D0%A0%D0%9E%D0%A7%D0%98%D0%A2%D0%90%D0%99.md)
 
 For correct view, download this and open project with obsidian: https://obsidian.md/
 
