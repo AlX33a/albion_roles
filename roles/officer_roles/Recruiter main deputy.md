@@ -1,4 +1,3 @@
-#main_role
 Назначается [[Recruiter main]]
 Цели обозначает [[Recruiter main]]
 

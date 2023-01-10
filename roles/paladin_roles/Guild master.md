@@ -1,4 +1,3 @@
-#main_role
 Назначается предыдущим главой гильдии
 Цель - постановка и достижение задач гильдии, на основе общего мнения доверенного состава гильдии
 
@@ -9,9 +8,9 @@
 Регулярно отчитываться о жизнедеятельности гильдии перед участниками гильдии
 
 Назначает:
-[[Guild Master Deputy]] 
+[[Guild master deputy]] 
 [[Treasurer]]
-[[Diplomats]]
-[[Recruiter main]] (единогласно с [[Treasurer]])
-[[3 Officer]] (единогласно с [[Treasurer]])
-[[4 Paladin]] (единогласно с [[Treasurer]])
+[[Diplomat]]
+[[Recruiter main]]
+[[4 Paladin]]
+[[Officer main]] 
