@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md",
+                "file": "ПРОЧИТАЙ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md",
+                "file": "ПРОЧИТАЙ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md",
+                "file": "ПРОЧИТАЙ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md"
+                "file": "ПРОЧИТАЙ.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "44a0d2cbfac63272",
   "lastOpenFiles": [
-    "discord_structure/main_discord/1 shielder/1 Infomation/4 Black list.md",
+    "README.md",
+    "ПРОЧИТАЙ.md",
+    "a_map/4_PALADIN_4.md",
+    "a_map/0_NONAME_0.md",
     "discord_structure/main_discord/3 knight/2 Officers chat.md",
+    "discord_structure/main_discord/1 shielder/1 Infomation/4 Black list.md",
     "discord_structure/main_discord/1 shielder/3 albion start/1 Based.md",
     "discord_structure/main_discord/1 shielder/3 albion start/4 Guides.md",
     "discord_structure/main_discord/1 shielder/3 albion start/3 How to raise silver.md",
-    "discord_structure/main_discord/1 shielder/3 albion start/2 How to raise fps.md",
-    "discord_structure/main_discord/1 shielder/2 Tavern/4 Media.md",
-    "discord_structure/main_discord/1 shielder/2 Tavern/3 Vacation.md",
-    "discord_structure/main_discord/1 shielder/2 Tavern/2 Help.md",
-    "discord_structure/main_discord/1 shielder/2 Tavern/1 Knights chat.md"
+    "discord_structure/main_discord/1 shielder/3 albion start/2 How to raise fps.md"
   ]
 }
