@@ -26,3 +26,4 @@ Folder trust_lvl , contains roles showing the level of trust the guild has for t
 
 **trust lvl map v0.1**
 ![[Pasted image 20230112232101.png]]
+![Pasted image 20230112232101](https://user-images.githubusercontent.com/36375661/212173775-d68b4025-6227-4d90-97ab-22c5bfd2df50.png)
