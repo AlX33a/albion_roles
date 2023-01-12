@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad718f579e4634c7",
+        "id": "b67b56bdb9b56493",
         "type": "tabs",
         "children": [
           {
-            "id": "a23a4560a1f01f73",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "d48f87d198f6c399",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9bb763d4e6943c0e",
+            "id": "44a0d2cbfac63272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roles/trust_lvl/1 Shielder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "82d9e99313580057",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42683b1645ff99da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ПРОЧИТАЙ.md",
+                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roles/trust_lvl/1 Shielder.md",
+                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roles/trust_lvl/1 Shielder.md",
+                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roles/trust_lvl/1 Shielder.md"
+                "file": "discord_structure/main_discord/3 knight/2 Officers chat.md"
               }
             }
           }
@@ -178,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9bb763d4e6943c0e",
+  "active": "44a0d2cbfac63272",
   "lastOpenFiles": [
-    "roles/trust_lvl/4 Paladin.md",
-    "roles/trust_lvl/3 Officer.md",
-    "roles/trust_lvl/2 Knight.md",
-    "roles/trust_lvl/1 Shielder.md",
-    "ПРОЧИТАЙ.md",
-    "README.md",
-    "roles/fame_achievements/fame_craft_roles/1 Needleman.md",
-    "rules/Без названия.md",
-    "roles/paladin_roles/Guild master.md",
-    "roles/paladin_roles/Treasurer.md"
+    "discord_structure/main_discord/1 shielder/1 Infomation/4 Black list.md",
+    "discord_structure/main_discord/3 knight/2 Officers chat.md",
+    "discord_structure/main_discord/1 shielder/3 albion start/1 Based.md",
+    "discord_structure/main_discord/1 shielder/3 albion start/4 Guides.md",
+    "discord_structure/main_discord/1 shielder/3 albion start/3 How to raise silver.md",
+    "discord_structure/main_discord/1 shielder/3 albion start/2 How to raise fps.md",
+    "discord_structure/main_discord/1 shielder/2 Tavern/4 Media.md",
+    "discord_structure/main_discord/1 shielder/2 Tavern/3 Vacation.md",
+    "discord_structure/main_discord/1 shielder/2 Tavern/2 Help.md",
+    "discord_structure/main_discord/1 shielder/2 Tavern/1 Knights chat.md"
   ]
 }
