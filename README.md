@@ -25,4 +25,3 @@ The folders knight_roles, officer_roles, paladin_roles contain the roles availab
 Folder trust_lvl , contains roles showing the level of trust the guild has for the player.
 
 **trust lvl map**
-![[Pasted image 20230112232113.png]]
