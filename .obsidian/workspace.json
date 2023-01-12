@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b67b56bdb9b56493",
+        "id": "ecd5b22e43f2ca79",
         "type": "tabs",
         "children": [
           {
-            "id": "44a0d2cbfac63272",
+            "id": "ffcb8aebb67dc14a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ПРОЧИТАЙ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПРОЧИТАЙ.md",
+                "file": "discord_structure/alience_discord/in progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПРОЧИТАЙ.md",
+                "file": "discord_structure/alience_discord/in progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПРОЧИТАЙ.md"
+                "file": "discord_structure/alience_discord/in progress.md"
               }
             }
           }
@@ -146,10 +142,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "44a0d2cbfac63272",
+  "active": "3cc3582bd3425494",
   "lastOpenFiles": [
-    "README.md",
     "ПРОЧИТАЙ.md",
+    "README.md",
     "static content/Pasted image 20230112231705.png",
     "static content/Pasted image 20230112231710.png",
     "a_map/4_PALADIN_4.md",
