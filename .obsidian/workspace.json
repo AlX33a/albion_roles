@@ -11,8 +11,12 @@
             "id": "ffcb8aebb67dc14a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ПРОЧИТАЙ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "a3d60221f05bf484",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discord_structure/alience_discord/in progress.md",
+                "file": "ПРОЧИТАЙ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discord_structure/alience_discord/in progress.md",
+                "file": "ПРОЧИТАЙ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discord_structure/alience_discord/in progress.md"
+                "file": "ПРОЧИТАЙ.md"
               }
             }
           }
@@ -142,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3cc3582bd3425494",
+  "active": "ffcb8aebb67dc14a",
   "lastOpenFiles": [
+    "discord_structure/alience_discord/in progress.md",
+    "discord_structure/main_discord/1 shielder/1 Infomation/6 Advertisement.md",
     "ПРОЧИТАЙ.md",
+    "static content/Pasted image 20230112232101.png",
     "README.md",
+    "roles/trust_lvl/1 Shielder.md",
     "static content/Pasted image 20230112231705.png",
     "static content/Pasted image 20230112231710.png",
     "a_map/4_PALADIN_4.md",
-    "a_map/0_NONAME_0.md",
-    "discord_structure/main_discord/3 knight/2 Officers chat.md",
-    "discord_structure/main_discord/1 shielder/1 Infomation/4 Black list.md",
-    "discord_structure/main_discord/1 shielder/3 albion start/1 Based.md",
-    "discord_structure/main_discord/1 shielder/3 albion start/4 Guides.md"
+    "a_map/0_NONAME_0.md"
   ]
 }
