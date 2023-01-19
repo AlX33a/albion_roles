@@ -1,4 +1,4 @@
-азначается [[Guild master]] 
+Назначается [[Guild master]] 
 Цель обозначает [[Guild master]]
 
 Обязательства: 

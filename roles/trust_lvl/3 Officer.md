@@ -1,8 +1,9 @@
 Назначает [[Guild master]] и [[Treasurer]]
 
 Требования:
-fame achievements - [[2 Killer]]
-fame achievements - [[3 Soldier]]
+pvp fame achievements - [[2 Killer]]
+pve fame achievements - [[3 Soldier]]
+gather + pvp + pve guild fame > 10kk
 
 Привилегии:
 Возможность получить роль [[4 Paladin]]

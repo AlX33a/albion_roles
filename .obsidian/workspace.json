@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd5b22e43f2ca79",
+        "id": "8f8bba4eec448216",
         "type": "tabs",
         "children": [
           {
-            "id": "ffcb8aebb67dc14a",
+            "id": "848529c2e3da94a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПРОЧИТАЙ.md",
+                "file": "discord_structure/main_discord/0 noname/1 Reception/4 Meeting room.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПРОЧИТАЙ.md",
+                "file": "discord_structure/main_discord/0 noname/1 Reception/4 Meeting room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПРОЧИТАЙ.md",
+                "file": "discord_structure/main_discord/0 noname/1 Reception/4 Meeting room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПРОЧИТАЙ.md"
+                "file": "discord_structure/main_discord/0 noname/1 Reception/4 Meeting room.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ffcb8aebb67dc14a",
+  "active": "848529c2e3da94a2",
   "lastOpenFiles": [
+    "discord_structure/main_discord/0 noname/1 Reception/2 Regulations.md",
+    "discord_structure/main_discord/0 noname/1 Reception/3 Registration.md",
+    "discord_structure/main_discord/0 noname/1 Reception/1 Welcome.md",
+    "discord_structure/main_discord/0 noname/1 Reception/4 Meeting room.md",
     "discord_structure/alience_discord/in progress.md",
-    "discord_structure/main_discord/1 shielder/1 Infomation/6 Advertisement.md",
-    "ПРОЧИТАЙ.md",
-    "static content/Pasted image 20230112232101.png",
-    "README.md",
-    "roles/trust_lvl/1 Shielder.md",
-    "static content/Pasted image 20230112231705.png",
-    "static content/Pasted image 20230112231710.png",
-    "a_map/4_PALADIN_4.md",
-    "a_map/0_NONAME_0.md"
+    "discord_structure/main_discord/1 shielder/2 Tavern/4 Media.md",
+    "discord_structure/main_discord/1 shielder/2 Tavern/3 Vacation.md",
+    "discord_structure/main_discord/1 shielder/2 Tavern/2 Help.md",
+    "discord_structure/main_discord/1 shielder/2 Tavern/1 Knights chat.md",
+    "discord_structure/main_discord/1 shielder/1 Infomation/4 Black list.md"
   ]
 }
